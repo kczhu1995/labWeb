@@ -1,13 +1,14 @@
 ---
 # Display name
-title: 吳健雄
+# TODO: 
+title: 朱凯晨
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Kaichen Zhu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Kai Chen
+last_name: Zhu
 
 # Status emoji
 status:
@@ -20,8 +21,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
-
+role: tenure-tracked associate professor
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: OpenAI
@@ -52,37 +52,21 @@ interests:
   - Information Retrieval
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: PhD in Nanoscience
+    institution: University of Barcelona
+    date_start: 2020-01-01
+    date_end: 2023-12-31
+    summary: |
+      Graduated with Excellent Cum Laude honor
+  - area: Master's Degree
+    institution: FUNSOM & CNST, Soochow University
     date_start: 2016-01-01
     date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+  - area: Bachelor's Degree
+    institution: FUNSOM & CNST, Soochow University
+    date_start: 2013-01-01
+    date_end: 2016-12-31
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -183,4 +167,5 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Dr. Kaichen Zhu got the PhD in Nanoscience in 2023 at University of Barcelona with Excellent Cum Laude honor. After postdoc at King Abdullah University of Science and Technology, in 2025 he joined Fudan University, where he is currently a tenure-tracked associate professor (PI) in Institute of Optoelectronics. Dr. Zhu’s research focuses on the integration of 2D electronic device, including h-BN memristor, h-BN gated transistor and their integration with Si based CMOS chips. Dr. Zhu has published over 30 research articles including 1 Nature, 2 Nature Electronics and 1 Nature Reviews Materials. Dr. Zhu won the NSFC Excellent Young Scientists Program (Overseas) in 2024. Dr. Zhu is active peer reviewer for journal like Nature Communication, Advanced Materials, Materials Science & Engineering. 
+
